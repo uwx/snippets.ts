@@ -1,0 +1,3 @@
+MIT License: Teppei Sato <teppeis@gmail.com>
+
+https://github.com/teppeis/multimaps
